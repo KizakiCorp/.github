@@ -1,4 +1,4 @@
-![Blue orbital line artwork on an ivory background](https://raw.githubusercontent.com/KizakiCorp/.github/main/profile/assets/linkedin-banner.png)
+![Kizaki — Coordination technologies for humans and agents.](https://raw.githubusercontent.com/KizakiCorp/.github/main/profile/assets/kizaki-banner.png)
 
 # Kizaki
 
